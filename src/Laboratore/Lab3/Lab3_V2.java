@@ -1,6 +1,6 @@
 package Laboratore.Lab3;
 
-public class Lab3 {
+public class Lab3_V2 {
 
     public static void main(String[] args) {
         MathSET<Integer> mathSet = new MathSET<>(new Integer[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10});
