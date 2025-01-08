@@ -29,7 +29,7 @@ public class Lab3_V2 {
         mathSet.union(anothermathSet);
         System.out.println("Universi: " + anothermathSet.universe);
         System.out.println("Seti: " + anothermathSet.set);
-        System.out.println("Union: "+mathSet.set);
+        System.out.println("Union: " + mathSet.set);
 
     }
 }
